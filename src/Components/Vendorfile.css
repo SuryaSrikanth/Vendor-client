@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Kulim+Park&display=swap');
+.xl-sheet{
+    height: 30vh;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.xl-sheet-2{
+    height: 30vh;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.xl-sheet-3{
+    height: 30vh;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.form-dress{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.file-title{
+    font-family: 'Kulim Park', sans-serif;
+}

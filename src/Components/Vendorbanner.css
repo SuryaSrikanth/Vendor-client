@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Michroma&display=swap');
+
+.banner-container{
+    margin-top: 0%;
+    width: 100%; 
+    
+    background-color: darkslategrey;
+}
+
+.banner-text{
+   
+    font-size: 400%;
+    color: floralwhite;
+    font-family: 'Fredericka the Great', cursive;
+}
+.pen-svg{
+    fill: floralwhite;
+}
+

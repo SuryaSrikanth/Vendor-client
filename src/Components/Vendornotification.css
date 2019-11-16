@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
+
+.noti-head{
+    padding-top: 3%;
+    padding-bottom: 1%;
+    font-family: 'Tomorrow', sans-serif;
+}
+
+.notif-data{
+    text-align: left;
+    margin-left: 10%;
+}
+.notif-btn-close{
+    margin-bottom: 1%;
+}
